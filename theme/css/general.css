@@ -9,7 +9,7 @@
 
 html {
     /* font-family: "Open Sans", sans-serif; */
-    font-family: "Fira Sans", Helvetica, Tahoma, Roboto, Arial, "Noto Sans SC", STXihei, "华文细黑", sans-serif;
+    font-family: "Open Sans", Helvetica, Tahoma, Roboto, Arial, "Noto Sans SC", STXihei, "华文细黑", sans-serif;
     color: var(--fg);
     background-color: var(--bg);
     text-size-adjust: none;
