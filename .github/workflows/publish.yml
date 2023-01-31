@@ -10,6 +10,7 @@ jobs:
       - uses: actions-rs/toolchain@v1
         with:
           toolchain: stable
+      - run: "cargo install mdbook"
       - run: "mdbook build"
       - run: "mv book dist"
       - name: Deploy OSS
