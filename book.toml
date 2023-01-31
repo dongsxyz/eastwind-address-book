@@ -1,0 +1,6 @@
+[book]
+authors = ["Zhongdong Yang"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "TheEastwind 导航书"
