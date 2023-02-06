@@ -6,6 +6,7 @@
   - [PDF 类](./category_1/pdf.md)
   - [设计类](./category_1/design.md)
   - [开发类](./category_1/developer.md)
+  - [创作类](./category_1/content_creation.md)
 - [软件类](./category_3.md)
   - [笔记软件](./category_3/note.md)
 - [游戏类](./category_2.md)
