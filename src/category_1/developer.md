@@ -12,6 +12,10 @@
 
    由 Mozilla 提供的在线生成标准 TLS 配置的工具。搭配 Let's Encrypt 的免费证书更美味哦！
 
+3. [JSON Web Tokens Debugger](https://jwt.io/)
+
+   由 jwt.io 提供的在线 JWT 编解码工具，您可以根据自身需要选择不同的 Hash 算法以及密钥。
+
 ### 域名和数字地址
 
 3. [ICANN Lookup](https://lookup.icann.org/)
