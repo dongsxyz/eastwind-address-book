@@ -21,8 +21,7 @@ jobs:
           key: ${{ runner.os }}-mdbook-${{ hashFiles('**/book.toml') }}
       - if: ${{ steps.cache-cargo.outputs.cache-hit != 'true' }}
         name: "Install mdBook programs"
-        run: "cargo install mdbook"
-        run: "cargo install mdbook-toc"
+        run: "cargo install mdbook mdbook-toc"
       - run: "mdbook build"
       - run: "mv book dist"
       - name: Deploy OSS
