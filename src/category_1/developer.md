@@ -1,6 +1,5 @@
 # 开发类
 
-
 ## 网络相关
 
 ### 安全和加密
@@ -26,3 +25,11 @@
 4. [IPAddress Lookup](https://www.ipaddress.com/)
 
    了解您当前网络地址信息，或者查询任意域名的解析信息的在线工具。
+
+## Linux 与运维
+
+### Linux
+
+1. [Linux命令大全 (手册)](https://www.linuxcool.com/)
+
+   一个在线的 Linux 命令大全，可以找到绝大部分需要的命令。如果你觉得记忆命令比较困难，不妨在这里找找看。

@@ -29,6 +29,10 @@
 
 1. [KernType（调字距）](/category_2/learning.html#设计师小游戏)
 
+### L (1)
+
+1. [Linux命令大全 (手册)](/category_1/developer.html#linux)
+
 ### M (1)
 
 1. [Markdown Nice](/category_1/text.html#文本生成)
