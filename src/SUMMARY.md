@@ -11,3 +11,5 @@
   - [笔记软件](./category_3/note.md)
 - [游戏类](./category_2.md)
   - [学习型](./category_2/learning.md)
+
+- [索引](./indices.md)

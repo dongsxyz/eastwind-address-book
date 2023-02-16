@@ -18,10 +18,11 @@ jobs:
             ~/.cargo/registry/index/
             ~/.cargo/registry/cache/
             ~/.cargo/git/db/
-          key: ${{ runner.os }}-cargo-${{ hashFiles('**/Cargo.lock') }}
+          key: ${{ runner.os }}-mdbook-${{ hashFiles('**/book.toml') }}
       - if: ${{ steps.cache-cargo.outputs.cache-hit != 'true' }}
-        name: "Install mdBook program"
+        name: "Install mdBook programs"
         run: "cargo install mdbook"
+        run: "cargo install mdbook-toc"
       - run: "mdbook build"
       - run: "mv book dist"
       - name: Deploy OSS

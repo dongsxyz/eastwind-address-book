@@ -4,3 +4,10 @@ language = "zh"
 multilingual = false
 src = "src"
 title = "TheEastwind 导航书"
+
+
+
+[preprocessor.toc]
+command = "mdbook-toc"
+renderer = ["html"]
+max-level = 3
