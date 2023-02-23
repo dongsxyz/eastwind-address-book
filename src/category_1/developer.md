@@ -1,12 +1,20 @@
 # 开发类
 
+<!-- toc -->
+
 ## 软件开发
 
-### 占位用途
+### 占位图
 
 1. [Dynamic Dummy Image Generator](https://dummyimage.com/)
    
    可以根据 URL 参数生成一张指定尺寸、文字、颜色的图片，使用起来非常方便
+
+### 占位文字
+
+1. [Lorem Ipsum](https://cn.lipsum.com/)
+
+   一款按照你的需求生成占位文本的工具，在前端开发和设计中尤其有用。
 
 ## 网络相关
 

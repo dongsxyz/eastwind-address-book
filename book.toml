@@ -4,10 +4,14 @@ language = "zh"
 multilingual = false
 src = "src"
 title = "TheEastwind 导航书"
-
-
+version = "0.4.27"
 
 [preprocessor.toc]
 command = "mdbook-toc"
 renderer = ["html"]
+marker = "<!-- toc -->"
 max-level = 3
+
+[output.html]
+git-repository-url = "https://github.com/theeastwind/eastwind-address-book"
+git-repository-icon = "fa-github"

@@ -1,5 +1,13 @@
 # 设计类
 
+## 排版相关
+
+### 占位文字
+
+1. [Lorem Ipsum](https://cn.lipsum.com/)
+
+   一款按照你的需求生成占位文本的工具，在前端开发和设计中尤其有用。
+
 ## 色彩相关
 
 1. [Color Hunt](https://colorhunt.co/)
