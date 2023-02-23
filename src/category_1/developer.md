@@ -1,5 +1,13 @@
 # 开发类
 
+## 软件开发
+
+### 占位用途
+
+1. [Dynamic Dummy Image Generator](https://dummyimage.com/)
+   
+   可以根据 URL 参数生成一张指定尺寸、文字、颜色的图片，使用起来非常方便
+
 ## 网络相关
 
 ### 安全和加密
