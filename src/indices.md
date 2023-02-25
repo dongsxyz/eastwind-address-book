@@ -2,7 +2,9 @@
 
 <!-- toc -->
 
-## A-Z
+## 首字母 A-Z
+
+如果首词为定冠词，则按照首个非定冠词的字母序排列。拼音同理。
 
 ### A (2)
 
@@ -44,7 +46,7 @@
 
 ### M (1)
 
-1. [Markdown Nice](/category_1/text.html#文本生成)
+1. [墨滴编辑器 (mdnice)](/category_1/text.html#文本生成)
 
 ### N (1)
 
@@ -56,6 +58,7 @@
 
 ### P (1)
 
+1. [PuppyPaste](/category_1/text.html#文本转换)
 1. [Pwdremover 3.1](/category_1/pdf.html#pdf-类)
 
 ### S (3)
