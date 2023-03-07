@@ -17,6 +17,7 @@
 
 ### D (1)
 
+1. [Diff Checker](/category_1/text.html#文本对比)
 1. [Dynamic Dummy Image Generator](/category_1/developer.html#占位用途)
 
 ### E (1)
@@ -67,6 +68,7 @@
 ### T (5)
 
 1. [Tabby](/category_1/developer.html#远程连接)
+1. [Text Compare!](/category_1/text.html#文本对比)
 1. [The rather difficult Font game（相当难的字体游戏）](/category_2/learning.html#设计师小游戏)
 1. [The Bézier Game（贝塞尔曲线游戏）](/category_2/learning.html#设计师小游戏)
 1. [The Boolean Game（布尔运算游戏）](/category_2/learning.html#设计师小游戏)

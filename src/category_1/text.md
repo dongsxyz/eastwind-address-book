@@ -8,3 +8,14 @@
 2. [Tree](https://tree.nathanfriend.io/)⭐
    
    通过缩进编辑生成树状结构的内容 
+
+
+### 文本对比
+
+1. [Diff Checker](https://www.diffchecker.com/text-compare/)
+
+   免费可用的在线文本 diff 工具，速度比较快。也可以付费使用桌面版及其他特殊功能。
+
+1. [Text Compare!](https://text-compare.com/)
+
+   完全免费的在线文本 diff 工具。
