@@ -32,3 +32,12 @@ jobs:
           region: ${{ secrets.S3_REGION }}
           bucket: ${{ secrets.S3_BUCKET }}
           endpoint: ${{ secrets.S3_ENDPOINT }}
+      - name: "Call Feishu bot webhook"
+        uses: indiesdev/curl@v1.1
+        with:
+          url: "${{ secrets.FEISHU_BOT_WEBHOOK }}"
+          method: "POST"
+          accept: 200,201,204
+          timeout: 10000
+          headers: '{ "Content-Type": "application/json" }'
+          body: '{"msg_type": "text", "content": {"text": "Eastwind 导航书已经更新"}}'
