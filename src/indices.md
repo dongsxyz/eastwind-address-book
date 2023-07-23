@@ -11,9 +11,11 @@
 1. [Adobe Color](/category_1/design.html#色彩相关)
 1. [ASCII Tree Generator](/category_1/text.html#文本生成)
 
-### B (1)
+### B (3)
 
+1. [The Bézier Game（贝塞尔曲线游戏）](/category_2/learning.html#设计师小游戏)
 1. [Bigjpg](/category_1/ai.html#图像类)
+1. [The Boolean Game（布尔运算游戏）](/category_2/learning.html#设计师小游戏)
 
 ### C (3)
 
@@ -67,7 +69,8 @@
 1. [PuppyPaste](/category_1/text.html#文本转换)
 1. [Pwdremover 3.1](/category_1/pdf.html#pdf-类)
 
-### R (1)
+### R (2)
+1. [The rather difficult Font game（相当难的字体游戏）](/category_2/learning.html#设计师小游戏)
 1. [Rust AI](/category_1/ai.html#通用-ai)
 
 ### S (3)
@@ -76,13 +79,10 @@
 1. [Sitemap Checker](/category_1/developer.html#安全和加密)
 1. [SSL Configuration Generator](/category_1/developer.html#安全和加密)
 
-### T (6)
+### T (3)
 
 1. [Tabby](/category_1/developer.html#远程连接)
 1. [Text Compare!](/category_1/text.html#文本对比)
-1. [The rather difficult Font game（相当难的字体游戏）](/category_2/learning.html#设计师小游戏)
-1. [The Bézier Game（贝塞尔曲线游戏）](/category_2/learning.html#设计师小游戏)
-1. [The Boolean Game（布尔运算游戏）](/category_2/learning.html#设计师小游戏)
 1. [Tree](/category_1/text.html#文本生成)
 
 ### W (2)
