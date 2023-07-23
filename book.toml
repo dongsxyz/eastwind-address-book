@@ -4,7 +4,7 @@ language = "zh"
 multilingual = false
 src = "src"
 title = "TheEastwind 导航书"
-version = "0.4.28"
+version = "0.4.29"
 
 [preprocessor.toc]
 command = "mdbook-toc"
