@@ -11,13 +11,17 @@
 1. [Adobe Color](/category_1/design.html#色彩相关)
 1. [ASCII Tree Generator](/category_1/text.html#文本生成)
 
+### B (1)
+
+1. [Bigjpg](/category_1/ai.html#图像类)
+
 ### C (3)
 
 1. [Color Hunt](/category_1/design.html#色彩相关)
 1. [Color（色彩游戏）](/category_2/learning.html#设计师小游戏)
 1. [Coolors](/category_1/design.html#色彩相关)
 
-### D (1)
+### D (2)
 
 1. [Diff Checker](/category_1/text.html#文本对比)
 1. [Dynamic Dummy Image Generator](/category_1/developer.html#占位用途)
@@ -45,9 +49,10 @@
 1. [Linux命令大全 (手册)](/category_1/developer.html#linux)
 1. [Lorem Ipsum](/category_1/design.html#占位文字)
 
-### M (1)
+### M (2)
 
 1. [墨滴编辑器 (mdnice)](/category_1/text.html#文本生成)
+1. [Midjourney](/category_1/ai.html#图像类)
 
 ### N (1)
 
@@ -57,10 +62,13 @@
 
 1. [Obsidian](/category_3/note.html#文字型笔记软件)
 
-### P (1)
+### P (2)
 
 1. [PuppyPaste](/category_1/text.html#文本转换)
 1. [Pwdremover 3.1](/category_1/pdf.html#pdf-类)
+
+### R (1)
+1. [Rust AI](/category_1/ai.html#通用-ai)
 
 ### S (3)
 
@@ -68,7 +76,7 @@
 1. [Sitemap Checker](/category_1/developer.html#安全和加密)
 1. [SSL Configuration Generator](/category_1/developer.html#安全和加密)
 
-### T (5)
+### T (6)
 
 1. [Tabby](/category_1/developer.html#远程连接)
 1. [Text Compare!](/category_1/text.html#文本对比)
@@ -81,3 +89,6 @@
 
 1. [Who.is](/category_1/developer.html#域名和数字地址)
 1. [Wolai 我来](/category_3/note.html#文字型笔记软件)
+
+### Y (1)
+1. [英汉在线词典](/category_1/education.html#词典类)

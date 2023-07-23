@@ -2,6 +2,7 @@
 
 - [介绍](./intro.md)
 - [工具类](./category_1.md)
+  - [人工智能类](./category_1/ai.md)
   - [文本处理类](./category_1/text.md)
   - [PDF 类](./category_1/pdf.md)
   - [设计类](./category_1/design.md)
