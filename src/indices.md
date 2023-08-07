@@ -23,9 +23,10 @@
 1. [Color（色彩游戏）](/category_2/learning.html#设计师小游戏)
 1. [Coolors](/category_1/design.html#色彩相关)
 
-### D (2)
+### D (3)
 
 1. [Diff Checker](/category_1/text.html#文本对比)
+1. [DownSub](/category_1/video.html#字幕)
 1. [Dynamic Dummy Image Generator](/category_1/developer.html#占位用途)
 
 ### E (1)

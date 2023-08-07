@@ -9,6 +9,7 @@
   - [开发类](./category_1/developer.md)
   - [创作类](./category_1/content_creation.md)
   - [教育类](./category_1/education.md)
+  - [视频类](./category_1/video.md)
 - [软件类](./category_3.md)
   - [笔记软件](./category_3/note.md)
 - [游戏类](./category_2.md)
