@@ -33,6 +33,10 @@
 
 1. [Ezgif](/category_1/content_creation.html#图片处理)
 
+### H (1)
+
+1. [HexEd.it](http://localhost:3000/category_1/developer.html#多进制内容处理)
+
 ### I (3)
 
 1. [I Shot the Serif（击中衬线字体）](/category_2/learning.html#设计师小游戏)
